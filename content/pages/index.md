@@ -5,8 +5,9 @@ sections:
   - type: hero_section
     section_id: hero
     title: logo of will?
-    content: |
-      \*paragraph about what WILL is\*
+    content: >
+      \*paragraph about what WILL
+      is\*![](/images/203035914\_231864608598771\_1805498811215848247\_n.jpg)
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
