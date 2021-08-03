@@ -57,7 +57,7 @@ sections:
         image_alt: Logo 3
       - image: /images/logo-5.svg
         image_alt: Logo 4
-      - image: /images/TSN.jpeg
+      - image: /images/logo.svg
         image_alt: Logo 5
   - type: portfolio_section
     section_id: latest-projects
