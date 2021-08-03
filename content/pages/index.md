@@ -22,7 +22,7 @@ sections:
     grid_items:
       - image: /images/FinalLogo.png
         image_alt: Logo 1
-      - image: images/logo-2.svg
+      - image: /images/CBC Sports.png
         image_alt: Logo 2
       - image: images/logo-3.svg
         image_alt: Logo 3
