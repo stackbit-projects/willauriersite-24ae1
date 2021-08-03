@@ -46,7 +46,7 @@ sections:
           - Product design
   - type: grid_section
     section_id: clients
-    title: Previous Speakers
+    title: Accomplishments
     col_number: three
     grid_items:
       - image: /images/FinalLogo.png
