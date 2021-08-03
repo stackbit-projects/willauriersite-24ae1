@@ -8,21 +8,6 @@ sections:
       \*paragraph about what WILL is\*
     title: Women in Leadership Laurier
   - type: grid_section
-    section_id: clients
-    title: Previous Speakers
-    col_number: three
-    grid_items:
-      - image: /images/FinalLogo.png
-        image_alt: Logo 1
-      - image: /images/CBC Sports.png
-        image_alt: Logo 2
-      - image: /images/linkedin.png
-        image_alt: Logo 3
-      - image: /images/PG_logo_dark_blue.jpeg
-        image_alt: Logo 4
-      - image: /images/TSN.jpeg
-        image_alt: Logo 5
-  - type: grid_section
     section_id: services
     title: What does WILL do?
     subtitle: What we do
@@ -59,6 +44,21 @@ sections:
           - Communication design
           - Social media
           - Product design
+  - type: grid_section
+    section_id: clients
+    title: Previous Speakers
+    col_number: three
+    grid_items:
+      - image: /images/FinalLogo.png
+        image_alt: Logo 1
+      - image: /images/CBC Sports.png
+        image_alt: Logo 2
+      - image: /images/linkedin.png
+        image_alt: Logo 3
+      - image: /images/PG_logo_dark_blue.jpeg
+        image_alt: Logo 4
+      - image: /images/TSN.jpeg
+        image_alt: Logo 5
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
