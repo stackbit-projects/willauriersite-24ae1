@@ -51,7 +51,7 @@ sections:
     grid_items:
       - image: /images/logo-2.svg
         image_alt: Logo 1
-      - image: /images/CBC Sports.png
+      - image: /images/logo-3.svg
         image_alt: Logo 2
       - image: /images/linkedin.png
         image_alt: Logo 3
