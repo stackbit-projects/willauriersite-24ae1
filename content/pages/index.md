@@ -53,7 +53,7 @@ sections:
         image_alt: Logo 1
       - image: /images/logo-3.svg
         image_alt: Logo 2
-      - image: /images/linkedin.png
+      - image: /images/logo-4.svg
         image_alt: Logo 3
       - image: /images/PG_logo_dark_blue.jpeg
         image_alt: Logo 4
