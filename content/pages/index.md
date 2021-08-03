@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     content: |
-      ![](/images/kind-planet.png)\*paragraph about what WILL is\*
+      \*paragraph about what WILL is\*
     title: Women in Leadership Laurier
   - type: portfolio_section
     section_id: latest-projects
