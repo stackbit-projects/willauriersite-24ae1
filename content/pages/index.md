@@ -28,7 +28,7 @@ sections:
         image_alt: Logo 3
       - image: /images/Procter_&_Gamble_logo.svg.png
         image_alt: Logo 4
-      - image: images/logo-5.svg
+      - image: /images/TSN.jpeg
         image_alt: Logo 5
   - type: grid_section
     section_id: services
