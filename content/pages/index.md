@@ -4,8 +4,9 @@ hide_title: true
 sections:
   - type: hero_section
     section_id: hero
-    content: |
-      \*paragraph about what WILL is\*
+    content: >
+      ![](<stackbit_asset_id:static:public/images/WILL Logo.png>)\*paragraph
+      about what WILL is\*
     title: Women in Leadership Laurier
   - type: portfolio_section
     section_id: latest-projects
