@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     content: |
-      \*paragraph about what WILL is\*
+      Mission statement and values
     title: Women in Leadership Laurier
   - type: grid_section
     section_id: services
