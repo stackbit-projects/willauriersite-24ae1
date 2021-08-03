@@ -7,14 +7,6 @@ sections:
     content: |
       \*paragraph about what WILL is\*
     title: Women in Leadership Laurier
-  - type: portfolio_section
-    section_id: latest-projects
-    layout_style: tiles
-    title: WILL Community
-    subtitle: Explore case studies
-    projects_number: 6
-    view_all_label: View All
-    view_all_url: portfolio
   - type: grid_section
     section_id: clients
     title: Previous Speakers
@@ -67,6 +59,14 @@ sections:
           - Communication design
           - Social media
           - Product design
+  - type: portfolio_section
+    section_id: latest-projects
+    layout_style: tiles
+    title: WILL Community
+    subtitle: Explore case studies
+    projects_number: 6
+    view_all_label: View All
+    view_all_url: portfolio
   - type: testimonials_section
     section_id: testimonials
     title: Testimonials
