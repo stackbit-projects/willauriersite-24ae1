@@ -24,7 +24,7 @@ sections:
         image_alt: Logo 1
       - image: /images/CBC Sports.png
         image_alt: Logo 2
-      - image: /images/Procter_&_Gamble_logo.svg.png
+      - image: /images/linkedin.png
         image_alt: Logo 3
       - image: images/logo-4.svg
         image_alt: Logo 4
