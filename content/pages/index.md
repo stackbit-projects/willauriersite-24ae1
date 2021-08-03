@@ -6,6 +6,7 @@ sections:
     section_id: hero
     content: |
       \*paragraph about what WILL is\*
+    title: 'Women in '
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
