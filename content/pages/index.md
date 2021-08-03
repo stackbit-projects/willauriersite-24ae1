@@ -4,7 +4,6 @@ hide_title: true
 sections:
   - type: hero_section
     section_id: hero
-    title: logo of will?
     content: |
       \*paragraph about what WILL is\*
   - type: portfolio_section
