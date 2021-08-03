@@ -16,6 +16,11 @@
                 "style": "link"
             },
             {
+                "label": "About",
+                "url": "/about/",
+                "style": "link"
+            },
+            {
                 "label": "Partners",
                 "url": "/portfolio/",
                 "style": "link"
@@ -23,11 +28,6 @@
             {
                 "label": "Events",
                 "url": "/blog/",
-                "style": "link"
-            },
-            {
-                "label": "About",
-                "url": "/about/",
                 "style": "link"
             },
             {
