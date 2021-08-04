@@ -91,7 +91,7 @@ sections:
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
   - type: cta_section
     section_id: cta
-    title: Contact WILL
+    title: Contact Information
     content: >
       Have questions about WILL or how you can get involved? Feel free to
       contact us below.
