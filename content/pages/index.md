@@ -13,7 +13,6 @@ sections:
   - type: grid_section
     section_id: services
     title: What does WILL do?
-    subtitle: What we do
     col_number: three
     grid_items:
       - title: Networking/Panelist Events
