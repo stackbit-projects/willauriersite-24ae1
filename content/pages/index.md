@@ -96,7 +96,7 @@ sections:
       Have questions about WILL or how you can get involved? Feel free to
       contact us below.
     actions:
-      - label: Contact Now
+      - label: Contact Us
         url: /contact
         style: button
     image: /images/email.png
