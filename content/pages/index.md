@@ -92,9 +92,9 @@ sections:
   - type: cta_section
     section_id: cta
     title: Contact Us
-    content: >-
-      Say hello at [email@example.com](mailto:email@example.com) or tell us more
-      about your project by getting started below.
+    content: >
+      Have questions about WILL or how you can get involved? Feel free to email
+      us at \__\__\__\__.
     actions:
       - label: Let's start
         url: /contact
