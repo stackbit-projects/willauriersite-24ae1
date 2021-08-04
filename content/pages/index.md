@@ -26,7 +26,7 @@ sections:
           - Digital and experience strategy
           - Communication strategy
       - title: Mentorship Program
-        image: images/service-2.svg
+        image: /images/IMG_4520.jpeg
         content: |-
           - Brand development
           - Naming
