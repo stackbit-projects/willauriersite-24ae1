@@ -16,7 +16,7 @@ sections:
     col_number: three
     grid_items:
       - title: Networking/Panelist Events
-        image: images/service-1.svg
+        image: /images/IMG_4518.jpeg
         content: |-
           - Research and insight
           - Business innovation and transformation
