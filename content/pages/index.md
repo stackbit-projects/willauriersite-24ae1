@@ -94,7 +94,7 @@ sections:
     title: Contact Us
     content: >
       Have questions about WILL or how you can get involved? Feel free to email
-      us at \__\__\__\__.
+      us at marketing@willaurier.org.
     actions:
       - label: Let's start
         url: /contact
