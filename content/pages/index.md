@@ -96,7 +96,7 @@ sections:
       Have questions about WILL or how you can get involved? Feel free to
       contact us using the link below.
     actions:
-      - label: Contact now
+      - label: Contact Now
         url: /contact
         style: button
     image: /images/kind-planet.png
