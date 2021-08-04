@@ -26,12 +26,7 @@ sections:
         content: >-
           Pretium aenean pharetra magna ac placerat vestibulum. Imperdiet sed
           euismod nisi porta lorem mollis.
-        actions:
-          - label: Twitter
-            url: 'https://twitter.com/'
-            style: icon
-            icon: twitter
-            new_window: true
+        actions: []
       - title: Hilary Ouse
         image: images/team-2.png
         subtitle: 'Co-Founder, Creative Director'
