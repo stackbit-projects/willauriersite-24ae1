@@ -99,7 +99,7 @@ sections:
       - label: Contact Now
         url: /contact
         style: button
-    image: /images/kind-planet.png
+    image: /images/email.png
     image_alt: Illustration
     bg_color: light
 layout: advanced
