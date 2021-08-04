@@ -38,12 +38,7 @@ sections:
         content: >-
           Dictum fusce ut placerat orci nulla pellentesque. Ipsum faucibus vitae
           aliquet nec ullamcorper sit.
-        actions:
-          - label: Twitter
-            url: 'https://twitter.com/'
-            style: icon
-            icon: twitter
-            new_window: true
+        actions: []
       - title: Gordon Norman
         image: images/team-3.png
         subtitle: Creative Producer
