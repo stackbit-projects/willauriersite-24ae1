@@ -85,7 +85,7 @@ sections:
       - author: Cassidy Huang
         avatar: images/dianne-ameter.jpg
         avatar_alt: Dianne Ameter's photo
-        position: 'CTO, Another Company'
+        position: 'Co-President, WILL'
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
