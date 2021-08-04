@@ -50,12 +50,7 @@ sections:
         content: >-
           Interdum velit euismod in pellentesque massa placerat duis ultricies
           lacus.
-        actions:
-          - label: Instagram
-            url: 'https://www.instagram.com'
-            style: icon
-            icon: instagram
-            new_window: true
+        actions: []
       - title: Parsley Montana
         image: images/team-4.png
         subtitle: 'Senior Designer, Motion Graphics'
