@@ -36,7 +36,7 @@ sections:
           - Brand implementation and management
           - Typography
       - title: Philanthropy Initiatives
-        image: images/service-3.svg
+        image: /images/IMG_4516.jpeg
         content: |-
           - Digital product design
           - Service design
