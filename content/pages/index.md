@@ -93,8 +93,8 @@ sections:
     section_id: cta
     title: Contact Us
     content: >
-      Have questions about WILL or how you can get involved? Feel free to email
-      us at marketing@willaurier.org.
+      Have questions about WILL or how you can get involved? Feel free to
+      contact us using the link below.
     actions:
       - label: Contact now
         url: /contact
