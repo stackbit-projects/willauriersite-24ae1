@@ -74,7 +74,7 @@ sections:
     subtitle: What our Presidents have to say about WILL
     col_number: three
     testimonials:
-      - author: Desmond Eagle
+      - author: Priyanka Khandelwal
         avatar: images/desmond-eagle.jpg
         avatar_alt: Desmond Eagle's photo
         position: 'CEO and founder, A Company'
