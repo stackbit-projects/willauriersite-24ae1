@@ -96,7 +96,7 @@ sections:
       Have questions about WILL or how you can get involved? Feel free to email
       us at marketing@willaurier.org.
     actions:
-      - label: Let's start
+      - label: Contact now
         url: /contact
         style: button
     image: /images/kind-planet.png
