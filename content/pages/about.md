@@ -51,11 +51,6 @@ sections:
           Interdum velit euismod in pellentesque massa placerat duis ultricies
           lacus.
         actions:
-          - label: Twitter
-            url: 'https://twitter.com/'
-            style: icon
-            icon: twitter
-            new_window: true
           - label: Instagram
             url: 'https://www.instagram.com'
             style: icon
