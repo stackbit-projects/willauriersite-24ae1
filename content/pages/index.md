@@ -10,6 +10,14 @@ sections:
       embracing knowledge from experienced speakers, the Waterloo community and
       our peers, we encourage growth without any boundaries.
     title: Women in Leadership Laurier
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon: dribbble
+        new_window: false
+        no_follow: false
+        type: action
   - type: grid_section
     section_id: services
     title: What does WILL do?
