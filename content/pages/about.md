@@ -54,8 +54,8 @@ sections:
     content: >
       We are always looking for great people to join our team. If you are
       interested in joining WILL please check our
-      I[nstagram](https://www.instagram.com/willaurier/) for hiring updates as
-      well as our [Linktree](https://linktr.ee/willdigital).
+      [Instagram](https://www.instagram.com/willaurier/) and
+      [Linktree](https://linktr.ee/willdigital) for hiring updates.
     image: /images/approved (1).png
     image_alt: Illustration
     bg_color: light
