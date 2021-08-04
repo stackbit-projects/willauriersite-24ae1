@@ -1,7 +1,7 @@
 ---
 title: Past Partners
 subtitle: This is an optional subtitle for the portfolio page
-layout_style: tiles
+layout_style: mosaic
 seo:
   title: Portfolio
   description: This is the portfolio page
