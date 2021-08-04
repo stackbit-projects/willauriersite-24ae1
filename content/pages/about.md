@@ -47,12 +47,7 @@ sections:
         content: >-
           Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa
           eget.
-        actions:
-          - label: Twitter
-            url: 'https://twitter.com/'
-            style: icon
-            icon: twitter
-            new_window: true
+        actions: []
   - type: cta_section
     section_id: cta
     title: Want to be a part of this incredible team?
