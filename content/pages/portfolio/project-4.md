@@ -48,6 +48,7 @@ sections:
     caption: lorem-ipsum
     width: regular
     type: image_section
+    image: /images/terrific-whale.png
 seo:
   title: Nature Mockup Magazine
   description: This is the sample project description
