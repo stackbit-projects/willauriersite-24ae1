@@ -99,7 +99,7 @@ sections:
       - label: Let's start
         url: /contact
         style: button
-    image: images/cta.svg
+    image: /images/kind-planet.png
     image_alt: Illustration
     bg_color: light
 layout: advanced
