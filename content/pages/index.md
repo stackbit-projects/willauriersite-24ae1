@@ -5,11 +5,13 @@ sections:
   - type: hero_section
     section_id: hero
     content: >
-      ![](/images/pleasant-moon.png)WILL strives to provide leadership skills,
-      resources, information and support needed to succeed in today’s
-      professional environment. By embracing knowledge from experienced
-      speakers, the Waterloo community and our peers, we encourage growth
-      without any boundaries.
+      ![](/images/pleasant-moon.png)
+
+
+      WILL strives to provide leadership skills, resources, information and
+      support needed to succeed in today’s professional environment. By
+      embracing knowledge from experienced speakers, the Waterloo community and
+      our peers, we encourage growth without any boundaries.
     title: Women in Leadership Laurier
     actions:
       - label: lorem-ipsum
