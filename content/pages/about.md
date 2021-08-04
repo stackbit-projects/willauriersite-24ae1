@@ -41,18 +41,6 @@ sections:
           Interdum velit euismod in pellentesque massa placerat duis ultricies
           lacus.
         actions: []
-      - title: Parsley Montana
-        image: images/team-4.png
-        subtitle: 'Senior Designer, Motion Graphics'
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        actions:
-          - label: Instagram
-            url: 'https://www.instagram.com/'
-            style: icon
-            icon: instagram
-            new_window: true
       - title: Brandon Guidelines
         image: images/team-5.png
         subtitle: Graphic Designer
