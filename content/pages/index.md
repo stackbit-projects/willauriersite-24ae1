@@ -94,7 +94,7 @@ sections:
     title: Contact WILL
     content: >
       Have questions about WILL or how you can get involved? Feel free to
-      contact us using the link below.
+      contact us below.
     actions:
       - label: Contact Now
         url: /contact
