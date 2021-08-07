@@ -5,10 +5,15 @@ sections:
   - type: hero_section
     section_id: hero
     content: >
-      WILL strives to provide leadership skills, resources, information and
-      support needed to succeed in today’s professional environment. By
-      embracing knowledge from experienced speakers, the Waterloo community and
-      our peers, we encourage growth without any boundaries.
+      Women in Leadership Laurier’s primary focus is to promote equity,
+      diversity and inclusion while fostering the continuous growth and
+      development of women interested in various areas of business. We aim to
+      nurture, empower and inspire female leaders from diverse backgrounds by
+      providing students with resources, information and support needed to
+      succeed in today’s professional environment. Together, we can embrace the
+      knowledge, expertise and experiences of industry professionals,
+      surrounding communities and our peers to enable success without
+      boundaries.
     title: Women in Leadership Laurier
     actions: []
   - type: grid_section
