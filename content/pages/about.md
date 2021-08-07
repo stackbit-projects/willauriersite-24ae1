@@ -68,10 +68,9 @@ sections:
     section_id: cta
     title: Want to be a part of this incredible team?
     content: >
-      We are always looking for great people to join our team. If you are
-      interested in joining WILL please check our
-      [Instagram](https://www.instagram.com/willaurier/) and
-      [Linktree](https://linktr.ee/willdigital) for hiring updates.
+      If you are interested in being part of this amazing team please check out
+      [Linktree](https://linktr.ee/willdigital) in our
+      [Instagram](https://www.instagram.com/willaurier/) bio for hiring updates.
     image: /images/approved (1).png
     image_alt: Illustration
     bg_color: light
