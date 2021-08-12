@@ -51,7 +51,7 @@ sections:
         actions: []
       - title: Linnea St.Clair
         image: '/images/Linnea St.Clair, VP Corporate.jpeg'
-        subtitle: Graphic Designer
+        subtitle: 'Co-VP, Corporate'
         content: >-
           Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa
           eget.
