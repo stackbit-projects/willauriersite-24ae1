@@ -37,7 +37,7 @@ sections:
         label: What are you inquiring about?
         default_value: Please select
         options:
-          - Branding
+          - Hiring
           - Design
           - Digital
       - input_type: textarea
