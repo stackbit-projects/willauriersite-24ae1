@@ -50,7 +50,7 @@ sections:
           "Fun Fact"
         actions: []
       - title: Brandon Guidelines
-        image: images/team-5.png
+        image: '/images/Linnea St.Clair, VP Corporate.jpeg'
         subtitle: Graphic Designer
         content: >-
           Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa
