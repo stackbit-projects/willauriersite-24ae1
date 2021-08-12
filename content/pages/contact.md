@@ -39,7 +39,7 @@ sections:
         options:
           - Hiring
           - WILL Events
-          - null
+          - Sponsors
       - input_type: textarea
         name: message
         label: Message
