@@ -22,7 +22,7 @@ sections:
     col_number: three
     grid_items:
       - title: Networking/Panelist Events
-        image: /images/DSC06688.JPG
+        image: /images/polite-panda.JPG
         content: |-
           - Research and insight
           - Business innovation and transformation
