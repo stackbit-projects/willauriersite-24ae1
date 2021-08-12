@@ -32,7 +32,7 @@ sections:
           - Digital and experience strategy
           - Communication strategy
       - title: Mentorship Program
-        image: /images/IMG_4520.jpeg
+        image: /images/important-paprika.JPG
         content: |-
           - Brand development
           - Naming
