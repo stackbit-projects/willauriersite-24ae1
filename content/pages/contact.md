@@ -5,8 +5,10 @@ sections:
   - type: form_section
     section_id: contact-form
     content: |
-      Let’s build something great together.<br>
-      Complete our contact form or send us an email at <email@example.com>.
+      Have questions for the WILL team?
+
+
+      Complete our contact form or send us an email at marketing@willaurier.org
 
       ***
 
