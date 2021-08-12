@@ -25,9 +25,8 @@ sections:
       - title: Cassidy Huang
         image: /images/royal-octopus.jpg
         subtitle: Co-President
-        content: >-
-          Dictum fusce ut placerat orci nulla pellentesque. Ipsum faucibus vitae
-          aliquet nec ullamcorper sit.
+        content: |
+          "Fun Fact"
         actions: []
       - title: lorem-ipsum
         subtitle: lorem-ipsum
