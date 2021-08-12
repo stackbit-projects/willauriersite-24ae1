@@ -24,9 +24,9 @@ sections:
       - title: Student Events
         image: /images/polite-panda.JPG
         content: |
-          *   Hear from inspiring speakers from a variety of companies
-          *   Have the opportunity to network with students and professionals
-          *   Ask questions to further engage in the events
+          *   Hear from inspiring speakers from a variety of companies 
+          *   Have the opportunity to network with students and professionals 
+          *   Learn more about fields that interest you 
       - title: Mentorship Program
         image: /images/beige-mint.JPG
         content: >
