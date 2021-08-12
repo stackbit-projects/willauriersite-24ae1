@@ -2,7 +2,7 @@
 title: The Book
 subtitle: Editorial Design
 date: '2020-04-10'
-thumb_image: /images/Copy of IMG_8107.JPG
+thumb_image: /images/beige-stegosaurus.JPG
 thumb_image_alt: The Book preview
 sections:
   - type: image_section
