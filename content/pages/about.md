@@ -23,7 +23,7 @@ sections:
           "Fun Fact"
         actions: []
       - title: Hilary Ouse
-        image: images/team-2.png
+        image: /images/royal-octopus.jpg
         subtitle: 'Co-Founder, Creative Director'
         content: >-
           Dictum fusce ut placerat orci nulla pellentesque. Ipsum faucibus vitae
