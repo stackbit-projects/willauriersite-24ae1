@@ -39,7 +39,7 @@ sections:
         options:
           - Hiring
           - Events
-          - Sponsors
+          - Sponsorship
           - Mentorship Program
       - input_type: textarea
         name: message
