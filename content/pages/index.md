@@ -83,7 +83,7 @@ sections:
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla.
       - author: Cassidy Huang
-        avatar: '/images/Cassidy Huang, Co-President.jpg'
+        avatar: '/images/Cassidy Huang, Co-President.png'
         avatar_alt: Dianne Ameter's photo
         position: 'Co-President, WILL'
         content: >-
