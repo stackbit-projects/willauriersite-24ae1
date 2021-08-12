@@ -40,6 +40,7 @@ sections:
           - Hiring
           - WILL Events
           - Sponsors
+          - lorem-ipsum
       - input_type: textarea
         name: message
         label: Message
