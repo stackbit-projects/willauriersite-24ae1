@@ -3,15 +3,10 @@ title: WILL Team
 hide_title: false
 sections:
   - type: content_section
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel
-      venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus
-      magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus
-      sagittis enim est, et semper lectus hendrerit ut.
-
-
-      In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod
-      turpis et nisi fermentum accumsan.
+    content: >
+      Women in Leadership Laurier is made up of 13 strong, empowering female
+      students who work together to create inspiring events for the Laurier
+      community to attend.
     image_alt: Our team in the meeting room
   - type: grid_section
     section_id: team
