@@ -20,7 +20,7 @@ sections:
         image: /images/pleasant-tiger.jpg
         subtitle: Co-President
         content: |
-          Fun Fact: 
+          "Fun Fact"
         actions: []
       - title: Hilary Ouse
         image: images/team-2.png
