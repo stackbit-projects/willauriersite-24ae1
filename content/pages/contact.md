@@ -40,7 +40,7 @@ sections:
           - Hiring
           - WILL Events
           - Sponsors
-          - lorem-ipsum
+          - Mentorship Program
       - input_type: textarea
         name: message
         label: Message
