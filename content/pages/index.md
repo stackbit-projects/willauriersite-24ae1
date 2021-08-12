@@ -21,7 +21,7 @@ sections:
     title: What does WILL do?
     col_number: three
     grid_items:
-      - title: Student Events
+      - title: Club Events
         image: /images/polite-panda.JPG
         content: |
           *   Hear from inspiring speakers from a variety of companies 
