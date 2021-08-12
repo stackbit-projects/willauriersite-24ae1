@@ -44,7 +44,7 @@ sections:
         actions: []
         type: grid_item
       - title: Gordon Norman
-        image: images/team-3.png
+        image: '/images/Annette Schiller, VP Corporate.jpg'
         subtitle: Creative Producer
         content: >-
           Interdum velit euismod in pellentesque massa placerat duis ultricies
