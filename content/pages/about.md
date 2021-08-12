@@ -46,9 +46,8 @@ sections:
       - title: Annette Schiller
         image: '/images/Annette Schiller, VP Corporate.jpg'
         subtitle: 'Co-VP, Corporate'
-        content: >-
-          Interdum velit euismod in pellentesque massa placerat duis ultricies
-          lacus.
+        content: |
+          "Fun Fact"
         actions: []
       - title: Brandon Guidelines
         image: images/team-5.png
