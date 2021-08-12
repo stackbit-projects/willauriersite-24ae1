@@ -33,8 +33,8 @@ sections:
           *   Mentors and mentees are paired based on similar interests and
           goals
 
-          *   The pairings work closely together to foster a benefits the growth
-          and development of each other
+          *   The pairings work closely together to foster a relationship that
+          benefits the growth and development of each other
 
           *   WILL has had an astounding 140 participants in this program over
           the past two years
