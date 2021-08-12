@@ -14,7 +14,7 @@ sections:
 
       ### Lazaridis School of Business and Economics
 
-      64 University Ave West
+      64 University Ave W
 
       Waterloo, ON
 
