@@ -19,9 +19,8 @@ sections:
       - title: Priyanka Khandelwal
         image: /images/pleasant-tiger.jpg
         subtitle: Co-President
-        content: >-
-          Pretium aenean pharetra magna ac placerat vestibulum. Imperdiet sed
-          euismod nisi porta lorem mollis.
+        content: |
+          Fun Fact: 
         actions: []
       - title: Hilary Ouse
         image: images/team-2.png
