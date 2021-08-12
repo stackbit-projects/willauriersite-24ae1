@@ -38,7 +38,7 @@ sections:
         default_value: Please select
         options:
           - Hiring
-          - WILL Events
+          - Events
           - Sponsors
           - Mentorship Program
       - input_type: textarea
