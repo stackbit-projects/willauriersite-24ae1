@@ -39,7 +39,7 @@ sections:
           *   WILL has had an astounding 140 participants in this program over
           the past two years
       - title: Philanthropy Initiatives
-        image: /images/IMG_4516.jpeg
+        image: /images/IMG_2893.JPG
         content: |-
           - Digital product design
           - Service design
