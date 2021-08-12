@@ -29,14 +29,15 @@ sections:
           *   Ask questions to further engage in the events
       - title: Mentorship Program
         image: /images/beige-mint.JPG
-        content: |-
-          - Brand development
-          - Naming
-          - Brand identity
-          - Design systems
-          - Concept development
-          - Brand implementation and management
-          - Typography
+        content: >
+          *   Mentors and mentees are paired based on similar interests and
+          goals
+
+          *   The pairings work closely together to foster a benefits the growth
+          and development of each other
+
+          *   WILL has had an astounding 140 participants in this program over
+          the past two years
       - title: Philanthropy Initiatives
         image: /images/IMG_4516.jpeg
         content: |-
