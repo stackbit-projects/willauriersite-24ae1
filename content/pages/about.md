@@ -43,7 +43,7 @@ sections:
           - dolor sit amet
         actions: []
         type: grid_item
-      - title: Annette
+      - title: Annette Schiller
         image: '/images/Annette Schiller, VP Corporate.jpg'
         subtitle: Creative Producer
         content: >-
