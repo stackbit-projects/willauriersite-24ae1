@@ -23,14 +23,10 @@ sections:
     grid_items:
       - title: Networking/Panelist Events
         image: /images/polite-panda.JPG
-        content: |-
-          - Research and insight
-          - Business innovation and transformation
-          - Brand and strategy
-          - Brand portfolio strategy
-          - Design strategy
-          - Digital and experience strategy
-          - Communication strategy
+        content: |
+          *   Hear from inspiring speakers from a variety of companies
+          *   Have the opportunity to network with students and professionals
+          *   Ask questions to further engage in the events
       - title: Mentorship Program
         image: /images/beige-mint.JPG
         content: |-
