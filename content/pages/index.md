@@ -75,7 +75,7 @@ sections:
     col_number: three
     testimonials:
       - author: Priyanka Khandelwal
-        avatar: '/images/Priyanka Khandelwal, Co-President.jpg'
+        avatar: '/images/Priyanka Khandelwal, Co-President.png'
         avatar_alt: Desmond Eagle's photo
         position: 'Co-President, WILL'
         content: >-
