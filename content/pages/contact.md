@@ -4,7 +4,21 @@ hide_title: false
 sections:
   - type: form_section
     section_id: contact-form
-    content: "Let’s build something great together.<br>\nComplete our contact form or send us an email at <email@example.com>.\n\n***\n\n## Address\n\n### Lazaridis School of Business and Economics\n\n###### \_64 University Ave West\n\n###### Waterloo, ON \n\nN2L 3C7\n"
+    content: |
+      Let’s build something great together.<br>
+      Complete our contact form or send us an email at <email@example.com>.
+
+      ***
+
+      ## Address
+
+      ### Lazaridis School of Business and Economics
+
+      64 University Ave West
+
+      Waterloo, ON
+
+      N2L 3C7
     form_id: contactForm
     form_action: /thank-you
     form_fields:
