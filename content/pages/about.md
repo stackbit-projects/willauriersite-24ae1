@@ -49,7 +49,7 @@ sections:
         content: |
           "Fun Fact"
         actions: []
-      - title: Linnea
+      - title: Linnea St.Clair
         image: '/images/Linnea St.Clair, VP Corporate.jpeg'
         subtitle: Graphic Designer
         content: >-
