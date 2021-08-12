@@ -45,7 +45,7 @@ sections:
         type: grid_item
       - title: Annette Schiller
         image: '/images/Annette Schiller, VP Corporate.jpg'
-        subtitle: 'Co-Vice President, Corporate'
+        subtitle: 'Co-VP, Corporate'
         content: >-
           Interdum velit euismod in pellentesque massa placerat duis ultricies
           lacus.
