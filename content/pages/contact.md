@@ -39,7 +39,7 @@ sections:
         options:
           - Hiring
           - WILL Events
-          - Digital
+          - null
       - input_type: textarea
         name: message
         label: Message
