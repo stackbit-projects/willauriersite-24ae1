@@ -38,7 +38,7 @@ sections:
         default_value: Please select
         options:
           - Hiring
-          - Design
+          - WILL Events
           - Digital
       - input_type: textarea
         name: message
