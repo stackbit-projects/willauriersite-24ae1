@@ -17,7 +17,7 @@ sections:
     col_number: three
     grid_items:
       - title: Gustav Purpleson
-        image: /images/kind-spruce.jpg
+        image: /images/pleasant-tiger.jpg
         subtitle: 'Co-Founder, Creative Director'
         content: >-
           Pretium aenean pharetra magna ac placerat vestibulum. Imperdiet sed
