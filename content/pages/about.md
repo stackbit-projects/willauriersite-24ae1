@@ -18,7 +18,7 @@ sections:
     grid_items:
       - title: Priyanka Khandelwal
         image: /images/pleasant-tiger.jpg
-        subtitle: 'Co-Founder, Creative Director'
+        subtitle: Co-President
         content: >-
           Pretium aenean pharetra magna ac placerat vestibulum. Imperdiet sed
           euismod nisi porta lorem mollis.
