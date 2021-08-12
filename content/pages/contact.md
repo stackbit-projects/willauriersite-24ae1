@@ -34,7 +34,7 @@ sections:
         is_required: true
       - input_type: select
         name: subject
-        label: What services are you looking for?
+        label: What are you inquiring about?
         default_value: Please select
         options:
           - Branding
