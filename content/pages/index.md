@@ -40,15 +40,12 @@ sections:
           the past two years
       - title: Philanthropy Initiatives
         image: /images/friendly-yam.JPG
-        content: |-
-          - Digital product design
-          - Service design
-          - Environmental and retail design
-          - Packaging design
-          - Art direction
-          - Communication design
-          - Social media
-          - Product design
+        content: >
+          *   Give back to the Waterloo community by supporting local non for
+          profits
+
+          *   Last year the WILL team participated in a 10km walk to support the
+          Women's Crisis Service of Waterloo
   - type: grid_section
     section_id: clients
     title: Accomplishments
