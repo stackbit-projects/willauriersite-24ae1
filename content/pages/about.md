@@ -16,7 +16,7 @@ sections:
     subtitle: An optional subtitle of the section
     col_number: three
     grid_items:
-      - title: Gustav Purpleson
+      - title: Priyanka
         image: /images/pleasant-tiger.jpg
         subtitle: 'Co-Founder, Creative Director'
         content: >-
