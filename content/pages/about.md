@@ -52,9 +52,8 @@ sections:
       - title: Linnea St.Clair
         image: '/images/Linnea St.Clair, VP Corporate.jpeg'
         subtitle: 'Co-VP, Corporate'
-        content: >-
-          Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa
-          eget.
+        content: |
+          "Fun Fact"
         actions: []
   - type: cta_section
     section_id: cta
