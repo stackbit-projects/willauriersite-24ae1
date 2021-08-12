@@ -24,7 +24,7 @@ sections:
         actions: []
       - title: Cassidy Huang
         image: /images/royal-octopus.jpg
-        subtitle: 'Co-Founder, Creative Director'
+        subtitle: Co-President
         content: >-
           Dictum fusce ut placerat orci nulla pellentesque. Ipsum faucibus vitae
           aliquet nec ullamcorper sit.
