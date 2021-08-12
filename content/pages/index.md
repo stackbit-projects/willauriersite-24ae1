@@ -45,7 +45,7 @@ sections:
           profits
 
           *   Last year the WILL team participated in a 10km walk to support the
-          Women's Crisis Service of Waterloo
+          Women's Crisis Services of Waterloo Region
   - type: grid_section
     section_id: clients
     title: Accomplishments
