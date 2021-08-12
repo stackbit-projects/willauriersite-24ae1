@@ -4,11 +4,11 @@ hide_title: false
 sections:
   - type: content_section
     content: >
-      Women in Leadership Laurier is made up of 13 strong, empowering female
+      Women in Leadership Laurier is made up of 13 strong, empowered female
       students who work together to create inspiring events for the Laurier
       community to attend. There are various departments that make up the WILL
       team including digital, marketing, corporate, internal, finance, events
-      and mentorship. 
+      and mentorship.
     image_alt: Our team in the meeting room
   - type: grid_section
     section_id: team
