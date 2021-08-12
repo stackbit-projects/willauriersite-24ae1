@@ -22,7 +22,7 @@ sections:
         content: |
           "Fun Fact"
         actions: []
-      - title: Hilary Ouse
+      - title: Cassidy Huang
         image: /images/royal-octopus.jpg
         subtitle: 'Co-Founder, Creative Director'
         content: >-
